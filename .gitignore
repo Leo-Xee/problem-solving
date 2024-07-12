@@ -1,6 +1,8 @@
 .idea
 .DS_Store
 
+command.md
+test.cpp
 input.txt
 *.out
 
