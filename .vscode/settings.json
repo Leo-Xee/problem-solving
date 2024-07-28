@@ -1,5 +1,6 @@
 {
   "files.associations": {
     "ios": "cpp"
-  }
+  },
+  "cSpell.words": ["psum"]
 }
