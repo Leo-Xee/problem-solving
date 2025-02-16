@@ -1,3 +1,3 @@
 # problem-solving
 
-This Repo is for Baekjoon Online Judge problem solving by C++, Javascript, Rust.
+This repository contains solutions to various algorithmic and data structure problems from Baekjoon Online Judge and LeetCode, implemented in C++ and JavaScript.
