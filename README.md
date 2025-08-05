@@ -1,11 +1,11 @@
 # problem-solving
 
-This repository contains solutions to various algorithmic and data structure problems from Baekjoon Online Judge and LeetCode, implemented in C++ and JavaScript.
+이 저장소는 BaekJoon Online Judge, Programmers, LeetCode의 알고리즘 문제의 풀이를 C++, JavaScript로 구현해서 정리합니다.
 
 ## Strategy
 
-1. **Read the problem statement carefully**, check the constraints, and plan your approach before coding.
-2. **Set a time limit (30 minutes to 1 hour).** If you can't solve it within that time, study the solution and understand the key concepts.
-3. **Analyze the time complexity of your solution before submitting.** Check if it meets the problem's constraints and optimize if needed.
-4. **Analyze other solutions after solving the problem.** Study different approaches and clean, efficient code.
-5. **Reattempt the problem within a month.** Keep practicing until you can solve it within 15 minutes.
+1. **문제를 신중하게 읽고**, 제약 조건을 확인한 후 먼저 접근 방법을 계획합니다.
+2. **시간 제한을 설정합니다. (30분)** 그 시간 내에 해결하지 못하면 바로 해설을 보고 핵심 개념을 이해합니다.
+3. **제출하기 전에 솔루션의 시간 복잡도를 분석합니다.** 문제의 제약 조건을 만족하는지 확인하고 필요하면 최적화해야 합니다.
+4. **문제를 해결한 후 다른 솔루션들을 분석합니다.** 다양한 접근 방법과 깔끔하고 효율적인 코드를 연구합니다.
+5. **한 달 내에 문제를 다시 시도합니다.** 15분 내에 해결할 수 있을 때까지 계속 연습합니다.
