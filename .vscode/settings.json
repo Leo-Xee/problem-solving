@@ -67,5 +67,6 @@
     "variant": "cpp",
     "memory": "cpp",
     "algorithm": "cpp"
-  }
+  },
+  "C_Cpp.default.compilerPath": "/usr/bin/gcc"
 }
